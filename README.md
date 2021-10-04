@@ -6,7 +6,6 @@
 
   <h3> ~ing </h3>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-squre&logo=django&logoColor=white">
-  <h4> 블로그 clone coding중~ <
 
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/generate_badge?boj=jouny007)](https://solved.ac/profile/jouny007)
