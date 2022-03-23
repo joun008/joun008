@@ -1,9 +1,9 @@
 <div align="center">
   <h1> Hello! I'm Younghwan </h1>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-squre&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=flat-squre&logo=Java&logoColor=white">
-
-<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-squre&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=flat-squre&logo=Java&logoColor=white">
+  <div>
     <img src="https://img.shields.io/badge/React-46caf3?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/styled_component-004070?style=flat-square&logo=styled-components&logoColor=white"/>
   </div>
