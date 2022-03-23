@@ -12,10 +12,6 @@
     <img src="https://img.shields.io/badge/HTML5-d84b26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-148bc8?style=flat-square&logo=css3&logoColor=white"/>
   </div>
-  <div>
-    <img src="https://img.shields.io/badge/Prisma-27313f?style=flat-square&logo=prisma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ApolloGraphQL-a300f0?style=flat-square&logo=apollographql&logoColor=white"/>
-  </div>
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joun008&theme=vue-dark&show_icons=true)
