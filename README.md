@@ -18,7 +18,6 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joun008&theme=vue-dark&show_icons=true)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joun008&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  <div>
-    **[자기소개서](https://discreet-goose-b7e.notion.site/Younghwan-Jo-171c1acf694f4f338dc162a9f2755f51)**
-  </div>
+  </br>
+ **[자기소개서](https://discreet-goose-b7e.notion.site/Younghwan-Jo-171c1acf694f4f338dc162a9f2755f51)**
 </div>
