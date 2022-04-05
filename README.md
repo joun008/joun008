@@ -12,9 +12,13 @@
     <img src="https://img.shields.io/badge/HTML5-d84b26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-148bc8?style=flat-square&logo=css3&logoColor=white"/>
   </div>
+  
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joun008&theme=vue-dark&show_icons=true)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joun008&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <div>
+    **[자기소개서](https://discreet-goose-b7e.notion.site/Younghwan-Jo-171c1acf694f4f338dc162a9f2755f51)**
+  </div>
 </div>
